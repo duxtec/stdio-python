@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='stdio',
-    version='1.0.0',
+    version='1.0.1',
     description='Facilitating functions related to reading and writing data on the terminal.',
     author='Dux Tecnologia',
     author_email='contato@dux.tec.br',
